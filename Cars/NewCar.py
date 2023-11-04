@@ -1,0 +1,2 @@
+class NewCar:
+    pass
